@@ -1,0 +1,5 @@
+Model,Best Val Accuracy,embedding_dim,hidden_dim,num_layers,dropout,learning_rate
+NN,0.5743,128,128,2,0.2,0.0005
+RNN,0.5429,128,64,1,0.2,0.0005
+LSTM,0.3842,128,128,2,0.2,0.0005
+GRU,0.3762,128,64,1,0.2,0.0005
