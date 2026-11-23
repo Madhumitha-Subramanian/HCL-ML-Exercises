@@ -1,2 +1,0 @@
-best_epoch,val_loss,test_loss,test_perplexity,sacrebleu,chrf,eval_sentences
-13,3.2813,3.2707,26.33,23.23,47.91,1024
